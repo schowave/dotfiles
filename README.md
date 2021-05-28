@@ -1,4 +1,4 @@
-# Profiles
+# dotfiles
 
 
 ## Installation
