@@ -4,5 +4,3 @@ then
 else
     echo "nvm is already installed"
 fi
-
-

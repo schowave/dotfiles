@@ -14,3 +14,21 @@ git clone https://github.com/schowave/dotfiles.git -b macos
 ```bash
 sh ./install.sh -i
 ```
+
+
+## Configuration
+
+### Java
+Install java via
+
+```bash
+jabba install adopt-openj9@1.11.0-11 
+jabba use adopt-openj9@1.11.0-11 
+```
+
+### Node
+Install node via 
+
+```bash
+nvm install 14.17.0
+```
